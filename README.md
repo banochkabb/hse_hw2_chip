@@ -23,3 +23,5 @@ ENCFF000AMB:
 ![](https://github.com/banochkabb/-hse_hw2_chip/blob/main/Screenshot%202022-03-11%20at%2000.01.33.png)
 ![](https://github.com/banochkabb/-hse_hw2_chip/blob/main/Screenshot%202022-03-11%20at%2000.02.02.png)
 ![](https://github.com/banochkabb/-hse_hw2_chip/blob/main/Screenshot%202022-03-11%20at%2000.02.14.png)
+
+я нахожусь +1 час от москвы поэтому даты скринов такие (сдано вовремя)
